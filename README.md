@@ -1,14 +1,14 @@
-# Data Scientist
+### Data Scientist
 
-Always a work in progress...
+Like in life, my data science portfolio is always a work in progress...
 
-# Work Experience
-
-
-# Education
+### Work Experience
 
 
-# Projects
+### Education
+
+
+### Projects
 
 
 add more...
