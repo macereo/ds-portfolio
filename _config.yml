@@ -9,7 +9,7 @@ version: 2
 name: Mason Cereo
 title: Data Scientist
 email: macereo@gmail.com
-website: will update later
+website: macereo.github.io/ds-portfolio/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -18,25 +18,25 @@ darkmode: true
 github_username:  macereo
 instagram_username: macheerio
 linkedin_username: mcereo
+facebook_username: masoncereo
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: portfolio
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+  url: https://github.com/macereo/ds-portfolio
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+- title: facebook
+   icon: fa brands fa-facebook
+   url: https://www.facebook.com/masoncereo
+
+- title: email me
+  icon: fa solid fa-envelope
+  url: mailto: macereo@gmail.com
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello there, and welcome to my digital portfolio!
 
