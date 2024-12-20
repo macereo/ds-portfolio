@@ -69,7 +69,7 @@ content:
           * Spatial Autocorrelation of Home Prices
 
   - title: Languages & Tools #Title for the section
-    layout: list # Type of contect section (list/text)
+    layout: text # Type of contect section (list/text)
     content:
       - layout: top-middle
         description: 
