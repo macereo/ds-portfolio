@@ -69,9 +69,9 @@ content:
           * Spatial Autocorrelation of Home Prices
 
   - title: Languages & Tools #Title for the section
-    layout: text # Type of contect section (list/text)
+    layout: list # Type of contect section (list/text)
     content:
-      - layout: top-middle
+      - layout: middle
         description: 
           <img alt="python" width="60" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
           <img alt="pandas" width="60" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
