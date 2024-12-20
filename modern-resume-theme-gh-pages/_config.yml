@@ -6,18 +6,28 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Mason Cereo
-title: Data Scientist
-email: macereo@gmail.com
-website: will update later
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
-github_username:  macereo
-instagram_username: macheerio
-linkedin_username: mcereo
+twitter_username: facespics
+github_username:  sproogen
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
@@ -38,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there, and welcome to my digital portfolio!
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -46,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/macereo/ds-portfolio
+        link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -67,10 +79,10 @@ content:
         title: The Boring Company
         link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: edit later
+        sub_title: Senior Network System Administrator
         caption: November 2017 - Present
         quote: >
-          *is this always so hot? it's a flamethrower.*
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -78,9 +90,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Arizona State University
+        title: Harvard University
         caption: 2010 - 2013
-        sub_title: BS Geographic Information Science
+        sub_title: BSc Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -113,6 +125,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-title: Mason's Data Science Portfolio
-origin/main
