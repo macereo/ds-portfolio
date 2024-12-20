@@ -9,7 +9,6 @@ version: 2
 name: Mason Cereo
 title: | # this will include new lines to allow paragraphs
   Data Scientist
-  Pronouns: He/Him, They/Them
 email: macereo@gmail.com
 website: macereo.github.io/ds-portfolio/
 
