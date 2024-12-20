@@ -21,7 +21,7 @@ Stay tuned and check back for more!
 <p align="center">
   <a href="mailto:macereo@gmail.com"><img alt="gmail" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mail" height="25" width="80"/></a>
   <a href="https://www.linkedin.com/in/mcereo"><img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0669ba.svg?logo=linkedin" height="25" width="80"/></a>
-  <a href="https://instagram.com/macheerio"><img alt="insta" title="Instagram" display: src="https://custom-icon-badges.demolab.com/badge/Instagram-b91fd1.svg?logo=instagram" height="25" width="80"/></a>
+  <a href="https://instagram.com/macheerio"><img alt="insta" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-b91fd1.svg?logo=instagram" height="25" width="80"/></a>
   <a href="https://kaggle.com/masoncereo"><img alt="kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/Kaggle-023c4d.svg?logo=kaggle" height="25" width="80"/></a>
    <br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=macereo&label=Profile%20Views&color=1cca9e&style=plastic" alt="macereo" />
