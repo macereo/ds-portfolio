@@ -113,6 +113,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-title: Mason's Data Science Portfolio
-origin/main
