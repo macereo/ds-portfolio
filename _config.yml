@@ -7,7 +7,8 @@ version: 2
 
 # Personal info
 name: Mason Cereo
-title: Data Scientist
+title: Data Scientist |
+  (He/Him/They/Them)
 email: macereo@gmail.com
 website: macereo.github.io/ds-portfolio/
 
@@ -47,46 +48,52 @@ about_content: | # this will include new lines to allow paragraphs
   When I don't have numbers swirling about my head, you can find me adventuring 🗺 with my partner, daughter, and two pups 👨‍👩‍👧🐕‍🦺🦮. I also love rugby 🏉, reading 📚, video games 🎮, and throwing down weights at the gym 🏋️‍♂️. 
 
   
-  quote: >
-    I'm just getting started with my official Digital Portfolio. It's a work in progress as I transition from the Army. Stay tuned and check back for more projects!
+  I'm just getting started with my official Digital Portfolio. It's a work in progress as I transition from the Army. Stay tuned and check back for more projects!
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content: |
+            
       - layout: top-middle
         title: Current Projects
         link: github.com/macereo/ds-portfolio
         description: | # this will include new lines to allow paragraphs
-          Description here
+          Check out my portfolio for my newest projects! (In the past, I'm new to sharing on Github, so bear with me while I build it up! 
+          Past projects include:
+            Single Multi-Tabular Synthetic Data Generation
+            Predicting Cancer Rates in Areas with Abandoned Mine Land
+            Predicting Climate Change Impacts
+            Identifying and Predicting High Crime Hotspots
+            Spatial Autocorrelation of Home Prices
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Google
-        sub_title: EDIT LATER
+        sub_title: Data Science, Machine Learning & Cloud AI Fellow (Fellowship)
         caption: Aug 2024 - Nov 2024
         description: | # this will include new lines to allow paragraphs
-            Description about Fellowship. 
+            I worked with the Data Science team, whose goal is to improve Google's LLMs and AI agents across Product Areas and improve data quality at scale. 
       - layout: left
         title: United States Army
-        sub_title: EDIT LATER
+        sub_title: Program Management, Recruiting and Business Intelligence
         caption: Mar 2020 - Present
         description: |
-            Description about current role, and headed out of the Army
+            I used data to help me target talent across various specialties for service in the Army as an Enlisted Soldier or Officer. I'll be finished with this gig in the next few weeks, moving onto the wider Data Science world!
       - layout: left
         title: United States Army
-        sub_title: EDIT LATER
+        sub_title: Assistant Program Management, Recruiting and Business Intelligence
         caption: Nov 2015 - Mar 2020
         description: |
-            Description about previous role. 
+            I used data to help me target talent across various specialties for service in the Army as an Enlisted Soldier or Officer. 
       - layout: left
         title: United States Army
-        sub_title: EDIT LATER
+        sub_title: Senior Network Specialist
         caption: Nov 2009 - Nov 2015
         description: | 
-            Description about network role. 
+            I made sure folks had communications/network capabilities so they could accomplish their duties. This included a lot of maintenance and troubleshooting. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
