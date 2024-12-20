@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: Mason Cereo
-title: Data Scientist |
-  (He/Him/They/Them)
+title: Data Scientist
 email: macereo@gmail.com
 website: macereo.github.io/ds-portfolio/
 
@@ -59,11 +58,17 @@ content:
         link: github.com/macereo/ds-portfolio
         description: | # this will include new lines to allow paragraphs
           Check out my portfolio for my newest projects! (In the past, I'm new to sharing on Github, so bear with me while I build it up! 
+          
           Past projects include:
+          
             Single Multi-Tabular Synthetic Data Generation
+            
             Predicting Cancer Rates in Areas with Abandoned Mine Land
+            
             Predicting Climate Change Impacts
+            
             Identifying and Predicting High Crime Hotspots
+            
             Spatial Autocorrelation of Home Prices
 
   - title: Experience # Title for the section
@@ -99,10 +104,10 @@ content:
     content:
       - layout: left
         title: Arizona State University
-        caption: 2010 - 2013
+        caption: 2018 - 2022
         sub_title: BS Geographic Information Science
         description: | # this will include new lines to allow paragraphs
-          Describe experience at ASU
+          I earned my BS in GIS, Magna Cum Laude in 2022. Really proud that I was able to accomplish this while working full time! 
 
 # Footer
 footer_show_references: true
