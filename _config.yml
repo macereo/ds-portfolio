@@ -73,12 +73,12 @@ content:
     content:
       - layout: top-middle
         description: 
-          <img align="center" alt="python" width="60" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-          <img align="center" alt="pandas" width="60" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-          <img align="center" alt="seaborn" width="60" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-          <img align="center" alt="sklearn" width="60" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-          <img align="center" alt="tensorflow" width="60" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-          <img align="center" alt="gcp" width="60" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+          <img alt="python" width="60" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+          <img alt="pandas" width="60" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
+          <img alt="seaborn" width="60" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+          <img alt="sklearn" width="60" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+          <img alt="tensorflow" width="60" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+          <img alt="gcp" width="60" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
