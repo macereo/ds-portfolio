@@ -7,7 +7,9 @@ version: 2
 
 # Personal info
 name: Mason Cereo
-title: Data Scientist
+title: | # this will include new lines to allow paragraphs
+  Data Scientist
+  Pronouns: He/Him, They/Them
 email: macereo@gmail.com
 website: macereo.github.io/ds-portfolio/
 
@@ -46,7 +48,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   When I don't have numbers swirling about my head, you can find me adventuring 🗺 with my partner, daughter, and two pups 👨‍👩‍👧🐕‍🦺🦮. I also love rugby 🏉, reading 📚, video games 🎮, and throwing down weights at the gym 🏋️‍♂️. 
 
-  
   I'm just getting started with my official Digital Portfolio. It's a work in progress as I transition from the Army. Stay tuned and check back for more projects!
 
 content:
@@ -57,19 +58,19 @@ content:
         title: Current Projects
         link: github.com/macereo/ds-portfolio
         description: | # this will include new lines to allow paragraphs
-          Check out my portfolio for my newest projects! (In the past, I'm new to sharing on Github, so bear with me while I build it up! 
+          Check out my portfolio for my newest projects! (I'm new to sharing on Github, so bear with me while I build up my portfolio!)
           
           Past projects include:
           
-            Single Multi-Tabular Synthetic Data Generation
+            * Single Multi-Tabular Synthetic Data Generation
             
-            Predicting Cancer Rates in Areas with Abandoned Mine Land
+            * Predicting Cancer Rates in Areas with Abandoned Mine Land
             
-            Predicting Climate Change Impacts
+            * Predicting Climate Change Impacts
             
-            Identifying and Predicting High Crime Hotspots
+            * Identifying and Predicting High Crime Hotspots
             
-            Spatial Autocorrelation of Home Prices
+            * Spatial Autocorrelation of Home Prices
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,7 +108,7 @@ content:
         caption: 2018 - 2022
         sub_title: BS Geographic Information Science
         description: | # this will include new lines to allow paragraphs
-          I earned my BS in GIS, Magna Cum Laude in 2022. Really proud that I was able to accomplish this while working full time! 
+          I earned my BS in GIS, Magna Cum Laude in 2022 while working full time! 
 
 # Footer
 footer_show_references: true
