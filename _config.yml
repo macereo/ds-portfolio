@@ -1,5 +1,6 @@
 $ git add --all
 $ git commit -m "Initial resume setup"
 $ git push -u origin master
+
 title: Mason Cereo's Data Science Portfolio
 description: Projects and work proofs
