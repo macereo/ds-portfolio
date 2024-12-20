@@ -53,12 +53,15 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:             
-      - layout: top-middle
+      - layout: top-left
         title: Current Projects
         link: github.com/macereo/ds-portfolio
         description: | # this will include new lines to allow paragraphs
           Check out my portfolio for my newest projects! (I'm new to sharing on Github, so bear with me while I build up my portfolio!)
-          
+      
+      - layout: top-left
+        title: Past Projects
+        description: | # this will include new lines to allow paragraphs
           Past projects include:
           
             * Single Multi-Tabular Synthetic Data Generation
@@ -71,6 +74,18 @@ content:
             
             * Spatial Autocorrelation of Home Prices
 
+  - title: Languages & Tools #Title for the section
+    layout: list # Type of contect section (list/text)
+    content:
+      - layout: left
+        description: 
+          <img align="left" alt="python" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+          <img align="left" alt="pandas" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
+          <img align="left" alt="seaborn" width="40" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+          <img align="left" alt="sklearn" width="40" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+          <img align="left" alt="tensorflow" width="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+          <img align="left" alt="gcp" width="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
